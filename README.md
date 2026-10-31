@@ -19,4 +19,4 @@ All mods need [BepInExPack Valheim](https://thunderstore.io/c/valheim/p/denikson
 
 ## Multiplayer
 
-Read the notes on each mod's release page. In short: everyone needs the same version of Valheim Axes and Early Feather Cape. A dedicated server doesn't need them, but installing them there is recommended: a server without them deletes their items left on the ground near the centre of the world. Scorched Sapling only needs to be installed by the players who want it, but players without the mod can't see its saplings.
+Read the notes on each mod's release page. In short: everyone needs the same version of each mod. A dedicated server doesn't need them, but installing them there is recommended: a server without a mod deletes that mod's items left on the ground, or saplings planted, near the centre of the world.
