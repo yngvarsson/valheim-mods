@@ -8,7 +8,7 @@ Download this one and you have everything: every mod below in a single package.
 
 | Package | What it does | Version | Download |
 |---|---|---|---|
-| **More Weapons** | Every mod from the collection in one package: Valheim Axes, Early Feather Cape, Scorched Sapling and Valheim Greatswords. | 1.0.1 | [MoreWeapons-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/more-weapons-v1.0.1/MoreWeapons-1.0.1.zip) |
+| **More Weapons** | Every mod from the collection in one package: Valheim Axes, Early Feather Cape, Scorched Sapling and Valheim Greatswords. | 1.1.0 | [MoreWeapons-1.1.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/more-weapons-v1.1.0/MoreWeapons-1.1.0.zip) |
 
 ## Individual mods
 
