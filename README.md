@@ -4,7 +4,7 @@ Small Valheim mods that fill gaps in the vanilla game. Every mod is built from t
 
 | Mod | What it does | Version | Download |
 |---|---|---|---|
-| **Valheim Axes** | Dual axes for every biome between Early Axes and Berserkir: Bronze, Iron, Hrimnir, Blackmetal, Nifl and Nord Axes. | 1.1.1 | [ValheimAxes-1.1.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/axes-v1.1.1/ValheimAxes-1.1.1.zip) |
+| **Valheim Axes** | Dual axes for every biome between Early Axes and Berserkir: Bronze, Iron, Hrimnir, Blackmetal, Nifl and Nord Axes. | 1.1.2 | [ValheimAxes-1.1.2.zip](https://github.com/yngvarsson/valheim-mods/releases/download/axes-v1.1.2/ValheimAxes-1.1.2.zip) |
 | **Early Feather Cape** | A copy of the Feather Cape that you make at the Workbench instead of the Galdr Table. | 1.0.0 | [EarlyFeatherCape-1.0.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/early-feather-cape-v1.0.0/EarlyFeatherCape-1.0.0.zip) |
 | **Scorched Sapling** | A Cultivator sapling that grows into an Ashlands tree in any biome, for Ashwood at home. | 1.0.0 | [ScorchedSapling-1.0.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/scorched-sapling-v1.0.0/ScorchedSapling-1.0.0.zip) |
 
