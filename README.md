@@ -7,7 +7,7 @@ Small Valheim mods that fill gaps in the vanilla game. Every mod is built from t
 | **Valheim Axes** | Dual axes for every biome between Early Axes and Berserkir: Bronze, Iron, Hrimnir, Blackmetal, Nifl and Nord Axes. | 1.1.2 | [ValheimAxes-1.1.2.zip](https://github.com/yngvarsson/valheim-mods/releases/download/axes-v1.1.2/ValheimAxes-1.1.2.zip) |
 | **Early Feather Cape** | A copy of the Feather Cape that you make at the Workbench instead of the Galdr Table. | 1.0.1 | [EarlyFeatherCape-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/early-feather-cape-v1.0.1/EarlyFeatherCape-1.0.1.zip) |
 | **Scorched Sapling** | A Cultivator sapling that grows into an Ashlands tree in any biome, for Ashwood at home. | 1.0.1 | [ScorchedSapling-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/scorched-sapling-v1.0.1/ScorchedSapling-1.0.1.zip) |
-| **Valheim Greatswords** | Greatswords for every biome from the Black Forest to the Mistlands: Bronze, Iron, Hrimbrand, Blackmetal and Mistrender, made from vanilla models and effects. | 1.0.0 | [ValheimGreatswords-1.0.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/greatswords-v1.0.0/ValheimGreatswords-1.0.0.zip) |
+| **Valheim Greatswords** | Greatswords for every biome from the Black Forest to the Mistlands: Bronze, Iron, Hrimbrand, Blackmetal and Mistrender, made from vanilla models and effects. | 1.0.1 | [ValheimGreatswords-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/greatswords-v1.0.1/ValheimGreatswords-1.0.1.zip) |
 
 Each release's page has the full details: recipes, stats and multiplayer notes.
 
