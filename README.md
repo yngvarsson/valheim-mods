@@ -21,6 +21,7 @@ The same mods, one by one. Not recommended unless you're testing a single mod: M
 | **Scorched Sapling** | A Cultivator sapling that grows into an Ashlands tree in any biome, for Ashwood at home. | 1.0.1 | [ScorchedSapling-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/scorched-sapling-v1.0.1/ScorchedSapling-1.0.1.zip) |
 | **Valheim Greatswords** | Greatswords for every biome from the Black Forest to the Mistlands: Bronze, Iron, Hrimbrand, Blackmetal and Mistrender, made from vanilla models and effects. | 1.0.1 | [ValheimGreatswords-1.0.1.zip](https://github.com/yngvarsson/valheim-mods/releases/download/greatswords-v1.0.1/ValheimGreatswords-1.0.1.zip) |
 | **Valheim Brooches** | A new equipment slot for brooches, worn next to all other gear. First brooch: the Stag Brooch, +20% movement speed, made in the Bronze Age. | 1.0.0 | [ValheimBrooches-1.0.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/brooches-v1.0.0/ValheimBrooches-1.0.0.zip) |
+| **Alternate Recipes** | Copies of vanilla items with saner recipes; the originals are unchanged. First: the Fenris Hood (Alternate), made without a Cultist Trophy. | 1.0.0 | [AlternateRecipes-1.0.0.zip](https://github.com/yngvarsson/valheim-mods/releases/download/alternate-recipes-v1.0.0/AlternateRecipes-1.0.0.zip) |
 
 Each release's page on [Releases](https://github.com/yngvarsson/valheim-mods/releases) has the full details: recipes, stats and multiplayer notes.
 
